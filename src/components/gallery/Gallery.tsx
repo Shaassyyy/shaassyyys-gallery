@@ -8,7 +8,7 @@ const Gallery = () => {
   const [count, setCount] = useState<number>(1)
 
   const loopThroughImages = (count: number = 1) => {
-    for (let i = 0; i < 10 * count; i++) {
+    for (let i = 0; i < 46 * count; i++) {
       setImageStrorage((prevArr: imagesToShow[]) => [...prevArr, GalleryOne[i]])
     }
   }

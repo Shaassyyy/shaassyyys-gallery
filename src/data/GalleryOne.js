@@ -144,5 +144,6 @@ const GalleryOne = [
   { id: 45, src: ImgFortyFive, alt: 'Vermont', srcMobile: ImgFortyFiveMobile },
   { id: 46, src: ImgFortySix, alt: 'Virginia', srcMobile: ImgFortySixMobile },
   { id: 48, src: ImgFortyEight, alt: 'Virginia', srcMobile: ImgFortyEightMobile },
+
 ]
 export default GalleryOne
