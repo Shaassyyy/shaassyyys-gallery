@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/shaassyyys-gallery/static/css/main.64fc0e41.css",
+    "main.js": "/shaassyyys-gallery/static/js/main.12b51f24.js",
+    "static/js/787.19707d57.chunk.js": "/shaassyyys-gallery/static/js/787.19707d57.chunk.js",
+    "static/media/image-14.jpeg": "/shaassyyys-gallery/static/media/image-14.7b124069456c2dc6aa9d.jpeg",
+    "static/media/image-10.jpeg": "/shaassyyys-gallery/static/media/image-10.0c94b6fe0b44c1a37288.jpeg",
+    "static/media/image-13.jpg": "/shaassyyys-gallery/static/media/image-13.d4ba197002da5f8044fd.jpg",
+    "static/media/image-6.jpeg": "/shaassyyys-gallery/static/media/image-6.009cc36a9aeb8861574f.jpeg",
+    "static/media/image-8.jpg": "/shaassyyys-gallery/static/media/image-8.6e6843922512fc069fcb.jpg",
+    "static/media/image-9.jpg": "/shaassyyys-gallery/static/media/image-9.2b405fc199e19ee1f4d1.jpg",
+    "static/media/image-12.jpg": "/shaassyyys-gallery/static/media/image-12.f858a8adc1dfcb9da20b.jpg",
+    "static/media/image-5.jpg": "/shaassyyys-gallery/static/media/image-5.31addda96e936a559ff1.jpg",
+    "static/media/image-11.jpg": "/shaassyyys-gallery/static/media/image-11.39ca71301f179a78a48e.jpg",
+    "static/media/image-7.jpg": "/shaassyyys-gallery/static/media/image-7.2ffee13df4953725e2b5.jpg",
+    "static/media/image-2.jpg": "/shaassyyys-gallery/static/media/image-2.4558347fffe687420b4d.jpg",
+    "static/media/image-4.jpg": "/shaassyyys-gallery/static/media/image-4.da846bd0c2df7880578e.jpg",
+    "static/media/image-1.jpg": "/shaassyyys-gallery/static/media/image-1.1296b121ac6f96001c7a.jpg",
+    "static/media/image-3.jpg": "/shaassyyys-gallery/static/media/image-3.95d410586cdecd05bbb6.jpg",
+    "static/media/image-15.jpeg": "/shaassyyys-gallery/static/media/image-15.9268ee8b023709b8faeb.jpeg",
+    "index.html": "/shaassyyys-gallery/index.html",
+    "static/media/linkedin.svg": "/shaassyyys-gallery/static/media/linkedin.8e2ec78e583ead64ac39abc0c0e96611.svg",
+    "main.64fc0e41.css.map": "/shaassyyys-gallery/static/css/main.64fc0e41.css.map",
+    "main.12b51f24.js.map": "/shaassyyys-gallery/static/js/main.12b51f24.js.map",
+    "787.19707d57.chunk.js.map": "/shaassyyys-gallery/static/js/787.19707d57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64fc0e41.css",
+    "static/js/main.12b51f24.js"
+  ]
+}
